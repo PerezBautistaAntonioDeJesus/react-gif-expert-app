@@ -6,7 +6,7 @@ import { GifGrid } from './components/GifGrid';
 export const GitExpertApp = () => {
 
 
-    const [categories, setCategories] = useState(['One punch']);
+    const [categories, setCategories] = useState(['El chavo']);
 
     return (
     <>
